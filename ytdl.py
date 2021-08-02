@@ -241,7 +241,7 @@ async def handler(event):
 @bot.on(events.NewMessage(pattern='/help'))
 async def send_help(event):
     async with bot.action(event.chat_id, 'typing'):
-        await bot.send_message(event.chat_id, "IF Our Bot Is not working...Report Bugs AT Support")
+        await bot.send_message(event.chat_id, "Send me YT links To download videos IF Our Bot Is not working...Report Bugs AT Support")
         raise events.StopPropagation
 
 
