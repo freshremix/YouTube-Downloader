@@ -31,7 +31,7 @@ from FastTelethon import download_file, upload_file
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(filename)s [%(levelname)s]: %(message)s')
 logging.getLogger('telethon').setLevel(logging.WARNING)
-
+ 
 token = os.getenv("TOKEN") or "17Zg"
 app_id = int(os.getenv("APP_ID") or "922")
 app_hash = os.getenv("APP_HASH") or "490"
