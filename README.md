@@ -13,7 +13,7 @@
 
 <a href="https://telegram.me/PsychoBots_Chat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-brown.svg?style=for-the-badge&logo=Telegram"></a> 
 
-~ Thanks....❤️
-~ [@Psycho_Bots](https://t.me/Psycho_Bots)
-#### Must Visit ↓ To know about more Awesome Bots
-~ [@TuBots](https://t.me/tubots)
+# ~ Thanks....❤️
+# ~ [@Psycho_Bots](https://t.me/Psycho_Bots)
+### Must Visit ↓ To know about more Awesome Bots
+# ~ [@TuBots](https://t.me/tubots)
